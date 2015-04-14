@@ -56,7 +56,7 @@ def seek_path(gr, sv, tv):
     return stop
 
 @interact
-def test_interact(seed = input_box('1', type = int, label = 'seed (int)'), \
+def path_build_interact(seed = input_box('1', type = int, label = 'seed (int)'), \
                   vertices = input_box('7', type = int, label = 'vertices (int)'), \
                   density = slider(0, 1, 0.05, 0.5)):
     max_edges = int(vertices * (vertices - 1) / 2)
