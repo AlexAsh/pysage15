@@ -7,3 +7,5 @@ Worksheets:
 * task 2: https://cloud.sagemath.com/projects/f566c204-4573-44ad-a151-f797cf31dd45/files/animate.sagews
 * task 3: https://cloud.sagemath.com/projects/f566c204-4573-44ad-a151-f797cf31dd45/files/interact.sagews
 
+
+[MSU CMC PYTHON 2015 SPRING](http://uneex.ru/LecturesCMC/PythonDevelopment2015)
